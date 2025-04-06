@@ -19,6 +19,10 @@
   "gtceu.starter_reactor": "Starter Nuclear Reactor",
   "block.gtceu.starter_reactor.tooltip": "The most basic nuclear reactor",
 
+  "block.gtceu.draconic_crafting_chamber": "Draconic Crafting Chamber",
+  "gtceu.draconic_crafting_chamber": "Draconic Crafting Chamber",
+  "block.gtceu.draconic_crafting_chamber.tooltip": "The Draconic Crafting Chamber is used for basic DE crafting recipies",
+
   "block.gtceu.super_power_time_forge": "§5Super Powered Time Forge",
   "gtceu.super_power_time_forge": "§4Super Powered Time Forge",
   "block.gtceu.super_power_time_forge.tooltip": "§3Feel the power of the cosmos, §7you have obtained the §4Ultimate Forge of The Gods. §7With this you can craft the universe.",
