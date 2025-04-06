@@ -1,0 +1,28 @@
+{
+  "__CUSTOM_MACHINES__.header": "===================",
+  "__CUSTOM_MACHINES__.flufff": "> Custom Machines <",
+  "__CUSTOM_MACHINES__.footer": "===================",
+
+  "block.gtceu.greenhouse": "Gewächshaus",
+  "gtceu.greenhouse": "Gewächshaus",
+  "block.gtceu.greenhouse.tooltip": "§7Ein Hochleistungsschrank, der für jede Pflanze geeignet ist",
+
+  "block.gtceu.singularity_compressor": "Supermassiver Gravitations-Sternzerfallserzeuger",
+  "gtceu.singularity_compressor": "Supermassiver Gravitations-Sternzerfallserzeuger",
+  "block.gtceu.singularity_compressor.tooltip": "§7Eine Struktur, die Masse komprimiert, bis sie ein schwarzes Loch bildet",
+
+  "block.gtceu.starter_reactor": "Starter-Kernreaktor",
+  "gtceu.starter_reactor": "Starter-Kernreaktor",
+  "block.gtceu.starter_reactor.tooltip": "Der einfachste Kernreaktor",
+
+  "block.gtceu.nuclear_reactor": "Kernreaktor",
+  "gtceu.nuclear_reactor": "Kernreaktor",
+  "block.gtceu.nuclear_reactor.tooltip": "§7Eine Kammer, die wahnsinnige Mengen an Energie erzeugen kann!",
+
+  "__MATERIALS__.header": "=======================",
+  "__MATERIALS__.flufff": "> Materials <",
+  "__MATERIALS__.footer": "=======================",
+
+  "material.gtceu.infinity": "Unendlichkeit",
+  "material.gtceu.space_time": "Raum-Zeit"
+}

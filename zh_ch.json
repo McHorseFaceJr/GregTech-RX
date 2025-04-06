@@ -1,0 +1,28 @@
+{
+  "__CUSTOM_MACHINES__.header": "===================",
+  "__CUSTOM_MACHINES__.flufff": "> Custom Machines <",
+  "__CUSTOM_MACHINES__.footer": "===================",
+
+  "block.gtceu.greenhouse": "温室",
+  "gtceu.greenhouse": "温室",
+  "block.gtceu.greenhouse.tooltip": "§7适合任何植物生长的高能室",
+
+  "block.gtceu.singularity_compressor": "超大質量引力星體坍塌器",
+  "gtceu.singularity_compressor": "超大質量引力星體坍塌器",
+  "block.gtceu.singularity_compressor.tooltip": "§7一種壓縮質量直到形成黑洞的結構",
+
+  "block.gtceu.nuclear_reactor": "核反应堆",
+  "gtceu.nuclear_reactor": "核反应堆",
+  "block.gtceu.nuclear_reactor.tooltip": "§7一个能产生巨大能量的密室!",
+
+  "block.gtceu.starter_reactor": "起動式核反應堆",
+  "gtceu.starter_reactor": "起動式核反應堆",
+  "block.gtceu.starter_reactor.tooltip": "最簡單的核反應堆類型",
+
+  "__MATERIALS__.header": "=======================",
+  "__MATERIALS__.flufff": "> Materials <",
+  "__MATERIALS__.footer": "=======================",
+
+  "material.gtceu.infinity": "无限",
+  "material.gtceu.space_time": "时空"
+}

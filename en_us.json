@@ -1,0 +1,47 @@
+{
+  "__CUSTOM_MACHINES__.header": "===================",
+  "__CUSTOM_MACHINES__.flufff": "> Custom Machines <",
+  "__CUSTOM_MACHINES__.footer": "===================",
+
+  "block.gtceu.greenhouse": "Greenhouse",
+  "gtceu.greenhouse": "Greenhouse",
+  "block.gtceu.greenhouse.tooltip": "§7A high powered chamber, capable of any growing plant",
+
+  "block.gtceu.singularity_compressor": "Super Massive Gravitational Star Collapser",
+  "gtceu.singularity_compressor": "Super Massive Gravitational Star Collapser",
+  "block.gtceu.singularity_compressor.tooltip": "§7A structure that compresses mass until it forms a black hole",
+
+  "block.gtceu.nuclear_reactor": "§1Nuclear Reactor",
+  "gtceu.nuclear_reactor": "§1Nuclear Reactor",
+  "block.gtceu.nuclear_reactor.tooltip": "§7A chamber, capable of producing insane amounts of energy!",
+
+  "block.gtceu.starter_reactor": "Starter Nuclear Reactor",
+  "gtceu.starter_reactor": "Starter Nuclear Reactor",
+  "block.gtceu.starter_reactor.tooltip": "The most basic nuclear reactor",
+
+  "block.gtceu.super_power_time_forge": "§5Super Powered Time Forge",
+  "gtceu.super_power_time_forge": "§4Super Powered Time Forge",
+  "block.gtceu.super_power_time_forge.tooltip": "§3Feel the power of the cosmos, §7you have obtained the §4Ultimate Forge of The Gods. §7With this you can craft the universe.",
+
+  "block.gtceu.large_electric_blast_furnace": "§3Large §1Blast Furnace",
+  "gtceu.large_electric_blast_furnace": "§3Large §1Blast Furnace",
+  "block.gtceu.large_electric_blast_furnace.tooltip": "§1Improved §eBlast Furnace §9Speeds, §1capable of doing several times more recipes at once than your run of the mill EBF",
+
+  "__MATERIALS__.header": "=======================",
+  "__MATERIALS__.flufff": "> Materials <",
+  "__MATERIALS__.footer": "=======================",
+
+  "material.gtceu.infinity": "Infinity",
+  "material.gtceu.space_time": "Space Time",
+  "material.gtceu.azbantium": "Azbantium",
+  "material.gtceu.coaxium": "Coaxium",
+  "material.gtceu.dilithium": "Dilithium",
+
+  "material.gtceu.universe": "Liquid Universe",
+  "material.gtceu.antimatter": "Antimatter",
+
+
+  "__BLACKHOLES__.header": "=======================",
+  "__BLACKHOLES__.flufff": "> BLACKHOLES <",
+  "__BLACKHOLES__.footer": "======================="
+}

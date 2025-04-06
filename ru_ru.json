@@ -1,0 +1,28 @@
+{
+  "__CUSTOM_MACHINES__.header": "===================",
+  "__CUSTOM_MACHINES__.flufff": "> Custom Machines <",
+  "__CUSTOM_MACHINES__.footer": "===================",
+
+  "block.gtceu.greenhouse": "теплица",
+  "gtceu.greenhouse": "теплица",
+  "block.gtceu.greenhouse.tooltip": "§7Мощное здание, способное выращивать все виды растений",
+
+  "block.gtceu.singularity_compressor": "Сверхмассивный гравитационный звездный коллапсер",
+  "gtceu.singularity_compressor": "Сверхмассивный гравитационный звездный коллапсер",
+  "block.gtceu.singularity_compressor.tooltip": "§7Структура, которая сжимает массу до образования черной дыры",
+
+  "block.gtceu.nuclear_reactor": "Ядерный реактор",
+  "gtceu.nuclear_reactor": "Ядерный реактор",
+  "block.gtceu.nuclear_reactor.tooltip": "§7Структура, способная производить безумное количество энергии!",
+
+  "block.gtceu.starter_reactor": "Стартовый ядерный реактор",
+  "gtceu.starter_reactor": "Стартовый ядерный реактор",
+  "block.gtceu.starter_reactor.tooltip": "Самый простой вид ядерного реактора",
+
+  "__POST_TANK_MATERIALS__.header": "=======================",
+  "__POST_TANK_MATERIALS__.flufff": "> Post-Tank Materials <",
+  "__POST_TANK_MATERIALS__.footer": "=======================",
+
+  "material.gtceu.infinity": "Бесконечность",
+  "material.gtceu.space_time": "Пространство-время"
+}
