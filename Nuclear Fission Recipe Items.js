@@ -29,9 +29,4 @@ StartupEvents.registry('item', event => {
           .texture('kubejs:item/depleted_uranium_rod')
           .displayName('Depleted Fuel Rod (Uranium)')
 
-  event.create('dilithium_crystal')
-  .texture('kubejs:item/dilithium_crystal')
-  .displayName('Dilithium Crystal')
-  .glow(true)
-
 })
