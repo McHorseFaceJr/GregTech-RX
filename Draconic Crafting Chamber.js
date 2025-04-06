@@ -14,7 +14,7 @@ GTCEuStartupEvents.registry('gtceu:machine', event => {
         .recipeType('draconic_crafting')
         .generator(true)
         .recipeModifier(GTRecipeModifiers.ELECTRIC_OVERCLOCK.apply(OverclockingLogic.PERFECT_OVERCLOCK))
-        .appearanceBlock(GCyMBlocks.CASING_HIGH_TEMPERATURE_SMELTING)
+        .appearanceBlock(GTBlocks.CASING_HSSE_STURDY)
         .pattern(definition => FactoryBlockPattern.start()
             .aisle('HH#HH','h#P#h','hPPPh','P###P','P###P','P###P','P###P','P###P','P###P','P###P','#PPP#','##P##')
             .aisle('H###H','#PPP#','PhhhP','#hhh#','#hGh#','#hGh#','#hGh#','#hGh#','#hGh#','#hhh#','PhdhP','#PPP#')
