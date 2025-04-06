@@ -19,10 +19,29 @@
   "gtceu.starter_reactor": "Стартовый ядерный реактор",
   "block.gtceu.starter_reactor.tooltip": "Самый простой вид ядерного реактора",
 
+  "block.gtceu.draconic_crafting_chamber": "Драконическая эволюция Крафтинг Устройство",
+  "gtceu.draconic_crafting_chamber": "Драконическая эволюция Крафтинг Устройство",
+  "block.gtceu.draconic_crafting_chamber.tooltip": "Устройство для крафтинга Драконьей эволюции используется для получения основных рецептов крафтинга Драконьей эволюции",
+
+  "block.gtceu.super_power_time_forge": "Супермощная кузница времени",
+  "gtceu.super_power_time_forge": "Супермощная кузница времени",
+  "block.gtceu.super_power_time_forge.tooltip": "Почувствуйте силу космоса - вы получили Кузницу Богов. С ее помощью вы сможете создавать самые прочные материалы Вселенной.",
+
+  "block.gtceu.large_electric_blast_furnace": "Большая доменная печь",
+  "gtceu.large_electric_blast_furnace": "Большая доменная печь",
+  "block.gtceu.large_electric_blast_furnace.tooltip": "Улучшенная скорость работы доменной печи, способная одновременно выполнять в несколько раз больше рецептов, чем обычная электрическая доменная печь",
+
   "__POST_TANK_MATERIALS__.header": "=======================",
   "__POST_TANK_MATERIALS__.flufff": "> Post-Tank Materials <",
   "__POST_TANK_MATERIALS__.footer": "=======================",
 
   "material.gtceu.infinity": "Бесконечность",
-  "material.gtceu.space_time": "Пространство-время"
+  "material.gtceu.space_time": "Пространство-время",
+  "material.gtceu.azbantium": "Азбантиум",
+  "material.gtceu.coaxium": "Коаксиум",
+  "material.gtceu.dilithium": "Дилитиум",
+
+  "material.gtceu.universe": "сжиженная вселенная",
+  "material.gtceu.antimatter": "Антиматерия"
+
 }
