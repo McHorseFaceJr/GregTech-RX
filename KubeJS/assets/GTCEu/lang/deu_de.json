@@ -1,0 +1,51 @@
+{
+  "__CUSTOM_MACHINES__.header": "===================",
+  "__CUSTOM_MACHINES__.flufff": "> Custom Machines <",
+  "__CUSTOM_MACHINES__.footer": "===================",
+
+  "block.gtceu.greenhouse": "Gewächshaus",
+  "gtceu.greenhouse": "Gewächshaus",
+  "block.gtceu.greenhouse.tooltip": "§7Ein Hochleistungsschrank, der für jede Pflanze geeignet ist",
+
+  "block.gtceu.singularity_compressor": "Supermassiver Gravitations-Sternzerfallserzeuger",
+  "gtceu.singularity_compressor": "Supermassiver Gravitations-Sternzerfallserzeuger",
+  "block.gtceu.singularity_compressor.tooltip": "§7Eine Struktur, die Masse komprimiert, bis sie ein schwarzes Loch bildet",
+
+  "block.gtceu.starter_reactor": "Starter-Kernreaktor",
+  "gtceu.starter_reactor": "Starter-Kernreaktor",
+  "block.gtceu.starter_reactor.tooltip": "Der einfachste Kernreaktor",
+
+  "block.gtceu.nuclear_reactor": "Kernreaktor",
+  "gtceu.nuclear_reactor": "Kernreaktor",
+  "block.gtceu.nuclear_reactor.tooltip": "§7Eine Kammer, die wahnsinnige Mengen an Energie erzeugen kann!",
+
+  "block.gtceu.draconic_crafting_chamber": "Draconic Crafting Chamber",
+  "gtceu.draconic_crafting_chamber": "Draconic Crafting Chamber",
+  "block.gtceu.draconic_crafting_chamber.tooltip": "Die Draconic Crafting Chamber wird für grundlegende DE-Handwerksrezepte verwendet",
+
+  "block.gtceu.super_power_time_forge": "Superstarke Zeitschmiede",
+  "gtceu.super_power_time_forge": "Superstarke Zeitschmiede",
+  "block.gtceu.super_power_time_forge.tooltip": "Spüre die Macht des Kosmos - du hast die Schmiede der Götter erhalten. Mit ihr kannst du die stärksten Materialien des Universums erschaffen.",
+
+  "block.gtceu.large_electric_blast_furnace": "Großer Hochofen",
+  "gtceu.large_electric_blast_furnace": "Großer Hochofen",
+  "block.gtceu.large_electric_blast_furnace.tooltip": "Verbesserte Geschwindigkeit des Hochofens, der ein Vielfaches an Rezepten gleichzeitig ausführen kann als ein herkömmlicher Elektrohochofen",
+
+  "__MATERIALS__.header": "=======================",
+  "__MATERIALS__.flufff": "> Materials <",
+  "__MATERIALS__.footer": "=======================",
+
+  "material.gtceu.infinity": "Infinity",
+  "material.gtceu.space_time": "Space Time",
+  "material.gtceu.azbantium": "Azbantium",
+  "material.gtceu.coaxium": "coaxium",
+  "material.gtceu.dilithium": "dilithium",
+
+  "material.gtceu.universe": "Liquefied Universe",
+  "material.gtceu.antimatter": "Antimatter",
+
+
+  "__BLACKHOLES__.header": "=======================",
+  "__BLACKHOLES__.flufff": "> BLACKHOLES <",
+  "__BLACKHOLES__.footer": "======================="
+}

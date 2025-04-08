@@ -1,0 +1,51 @@
+{
+  "__CUSTOM_MACHINES__.header": "===================",
+  "__CUSTOM_MACHINES__.flufff": "> Custom Machines <",
+  "__CUSTOM_MACHINES__.footer": "===================",
+
+  "block.gtceu.greenhouse": "Greenhouse",
+  "gtceu.greenhouse": "Greenhouse",
+  "block.gtceu.greenhouse.tooltip": "A high powered chamber, capable of any growing plant",
+
+  "block.gtceu.singularity_compressor": "Super Massive Gravitational Star Collapser",
+  "gtceu.singularity_compressor": "Super Massive Gravitational Star Collapser",
+  "block.gtceu.singularity_compressor.tooltip": "A structure that compresses mass until it forms a black hole",
+
+  "block.gtceu.nuclear_reactor": "Nuclear Reactor",
+  "gtceu.nuclear_reactor": "§1Nuclear Reactor",
+  "block.gtceu.nuclear_reactor.tooltip": "§7A chamber, capable of producing insane amounts of energy!",
+
+  "block.gtceu.starter_reactor": "Starter Nuclear Reactor",
+  "gtceu.starter_reactor": "Starter Nuclear Reactor",
+  "block.gtceu.starter_reactor.tooltip": "The most basic nuclear reactor",
+
+  "block.gtceu.draconic_crafting_chamber": "Draconic Crafting Chamber",
+  "gtceu.draconic_crafting_chamber": "Draconic Crafting Chamber",
+  "block.gtceu.draconic_crafting_chamber.tooltip": "The Draconic Crafting Chamber is used for basic DE crafting recipies",
+
+  "block.gtceu.super_power_time_forge": "Super Powered Time Forge",
+  "gtceu.super_power_time_forge": "Super Powered Time Forge",
+  "block.gtceu.super_power_time_forge.tooltip": "Feel the power of the cosmos - you have received the Forge of the Gods. You can use it to create the strongest materials in the universe.",
+
+  "block.gtceu.large_electric_blast_furnace": "Large Blast Furnace",
+  "gtceu.large_electric_blast_furnace": "Large Blast Furnace",
+  "block.gtceu.large_electric_blast_furnace.tooltip": "Improved blast furnace speed, capable of executing several times more recipes simultaneously than a conventional electric blast furnace",
+
+  "__MATERIALS__.header": "=======================",
+  "__MATERIALS__.flufff": "> Materials <",
+  "__MATERIALS__.footer": "=======================",
+
+  "material.gtceu.infinity": "Infinity",
+  "material.gtceu.space_time": "Space Time",
+  "material.gtceu.azbantium": "Azbantium",
+  "material.gtceu.coaxium": "coaxium",
+  "material.gtceu.dilithium": "dilithium",
+
+  "material.gtceu.universe": "Liquefied Universe",
+  "material.gtceu.antimatter": "Antimatter",
+
+
+  "__BLACKHOLES__.header": "=======================",
+  "__BLACKHOLES__.flufff": "> BLACKHOLES <",
+  "__BLACKHOLES__.footer": "======================="
+}

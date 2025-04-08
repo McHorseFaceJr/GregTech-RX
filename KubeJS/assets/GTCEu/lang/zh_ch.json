@@ -1,0 +1,47 @@
+{
+  "__CUSTOM_MACHINES__.header": "===================",
+  "__CUSTOM_MACHINES__.flufff": "> Custom Machines <",
+  "__CUSTOM_MACHINES__.footer": "===================",
+
+  "block.gtceu.greenhouse": "温室",
+  "gtceu.greenhouse": "温室",
+  "block.gtceu.greenhouse.tooltip": "§7适合任何植物生长的高能室",
+
+  "block.gtceu.singularity_compressor": "超大質量引力星體坍塌器",
+  "gtceu.singularity_compressor": "超大質量引力星體坍塌器",
+  "block.gtceu.singularity_compressor.tooltip": "§7一種壓縮質量直到形成黑洞的結構",
+
+  "block.gtceu.nuclear_reactor": "核反应堆",
+  "gtceu.nuclear_reactor": "核反应堆",
+  "block.gtceu.nuclear_reactor.tooltip": "§7一个能产生巨大能量的密室!",
+
+  "block.gtceu.starter_reactor": "起動式核反應堆",
+  "gtceu.starter_reactor": "起動式核反應堆",
+  "block.gtceu.starter_reactor.tooltip": "最簡單的核反應堆類型",
+
+  "block.gtceu.draconic_crafting_chamber": "龍族進化 基本手工藝人",
+  "gtceu.draconic_crafting_chamber": "龍族進化 基本手工藝人",
+  "block.gtceu.draconic_crafting_chamber.tooltip": "的 龍族進化 基本手工藝人 用於製作基本的龍人進化配方",
+
+  "block.gtceu.super_power_time_forge": "超級動力時間鍛造機",
+  "gtceu.super_power_time_forge": "超級動力時間鍛造機",
+  "block.gtceu.super_power_time_forge.tooltip": "感受宇宙的力量 - 您已獲得眾神的鍛造之器。您可以用它來創造宇宙中最強大的材料。",
+
+  "block.gtceu.large_electric_blast_furnace": "大型高爐",
+  "gtceu.large_electric_blast_furnace": "大型高爐",
+  "block.gtceu.large_electric_blast_furnace.tooltip": "改良的高爐速度，一次可完成比一般電動高爐多數倍的配方",
+
+  "__MATERIALS__.header": "=======================",
+  "__MATERIALS__.flufff": "> Materials <",
+  "__MATERIALS__.footer": "=======================",
+
+  "material.gtceu.infinity": "无限",
+  "material.gtceu.space_time": "时空",
+  "material.gtceu.azbantium": "Azbantium",
+  "material.gtceu.coaxium": "同軸電纜",
+  "material.gtceu.dilithium": "二鋰",
+
+  "material.gtceu.universe": "液化宇宙",
+  "material.gtceu.antimatter": "反物質"
+
+}
